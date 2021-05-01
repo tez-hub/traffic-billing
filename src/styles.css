@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap");
+.App {
+  font-family: Manrope, sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+}
